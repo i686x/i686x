@@ -1,6 +1,6 @@
 ```json
 {
-  "name": "YourName",
+  "name": "OnMyKitty",
   "age": N/A,
   "skills": ["SHELL", "PHP", "GO"],
   "projects": {
